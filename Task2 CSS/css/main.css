@@ -1,0 +1,218 @@
+/* -------------------------------------Head--------------------------------- */
+.head {
+    text-align: center;
+}
+
+.head__line {
+    margin-right: auto;
+}
+
+#about {
+    font-size: 18px;
+}
+
+/* -------------------------------------Container--------------------------------- */
+.container__row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container__text-color {
+    text-decoration-color: #0000ff;
+}
+
+.container__about {
+    text-align: center;
+}
+
+.container__text-center {
+    text-align: center;
+}
+
+.container__width {
+
+    width: 100%;
+}
+
+.container__me {
+    width: 50px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+/* -------------------------------------Works-------------------------------*/
+.works {
+    text-align: center;
+}
+
+.works__some-img {
+    transition: all 1s ease;
+}
+
+.works__color {
+    color: #4C4C4C;
+    text-decoration: none;
+}
+
+.works__color--red {
+    color: #FF0000;
+    text-decoration: none;
+}
+
+.works__color--green {
+    color: #008000;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+h3, h4 {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.works__tab {
+    font: 14px/25px Arial, Helvetica, sans-serif;
+}
+
+.works__row {
+    width: 33.33333333%;
+}
+
+.works__column {
+    border-bottom: 1px solid #ddd;
+    margin: 20px 0 0;
+}
+
+/* -------------------------------------Form-------------------------------*/
+.form {
+    border: 2px solid #0000FF;
+    margin: 20px 0 0;
+}
+
+#format {
+    font-size: 20px;
+}
+
+.form__field {
+    border: 2px solid #FF4500;
+}
+
+.form__text {
+    font-size: 18px;
+}
+
+.form__one {
+
+}
+
+.form__two {
+
+}
+
+.form__data {
+
+}
+
+.form__data-enter {
+
+}
+
+.form__button {
+
+}
+
+.button {
+
+}
+
+/* -------------------------------------Footer-------------------------------*/
+.footer {
+
+}
+
+.footer__run {
+
+}
+
+.footer__bloc {
+
+}
+
+.footer__color {
+
+}
+
+.footer__item {
+
+}
+
+.footer__link {
+
+}
+
+.footer__link--black {
+
+}
+
+.footer__link--orange {
+
+}
+
+.footer__link--blue {
+
+}
+
+.footer__link--red {
+
+}
+
+.footer__networks {
+
+}
+
+.footer__social {
+
+}
+
+.footer__social--twitter {
+
+}
+
+.footer__social--vk {
+
+}
+
+.footer__social--instagram {
+
+}
+
+.footer__social--facebook {
+
+}
+
+.footer__tabs {
+
+}
+
+.footer__list {
+
+}
+
+.footer__end {
+
+}
+
+.footer__the-end {
+
+}
